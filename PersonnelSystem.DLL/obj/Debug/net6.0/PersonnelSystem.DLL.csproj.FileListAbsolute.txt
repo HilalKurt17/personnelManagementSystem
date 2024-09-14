@@ -1,0 +1,15 @@
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\bin\Debug\net6.0\PersonnelSystem.DLL.deps.json
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\bin\Debug\net6.0\PersonnelSystem.DLL.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\bin\Debug\net6.0\PersonnelSystem.DLL.pdb
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\bin\Debug\net6.0\PersonnelSystem.Entities.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\bin\Debug\net6.0\PersonnelSystem.Entities.pdb
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\obj\Debug\net6.0\PersonnelSystem.DLL.csproj.AssemblyReference.cache
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\obj\Debug\net6.0\PersonnelSystem.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\obj\Debug\net6.0\PersonnelSystem.DLL.AssemblyInfoInputs.cache
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\obj\Debug\net6.0\PersonnelSystem.DLL.AssemblyInfo.cs
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\obj\Debug\net6.0\PersonnelSystem.DLL.csproj.CoreCompileInputs.cache
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\obj\Debug\net6.0\PersonnelSystem.DLL.csproj.CopyComplete
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\obj\Debug\net6.0\PersonnelSystem.DLL.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\obj\Debug\net6.0\refint\PersonnelSystem.DLL.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\obj\Debug\net6.0\PersonnelSystem.DLL.pdb
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.DLL\obj\Debug\net6.0\ref\PersonnelSystem.DLL.dll
