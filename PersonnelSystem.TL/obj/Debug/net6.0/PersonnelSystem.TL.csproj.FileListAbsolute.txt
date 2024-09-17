@@ -1,0 +1,17 @@
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\bin\Debug\net6.0\PersonnelSystem.TL.deps.json
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\bin\Debug\net6.0\PersonnelSystem.TL.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\bin\Debug\net6.0\PersonnelSystem.TL.pdb
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\bin\Debug\net6.0\PersonnelSystem.DLL.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\bin\Debug\net6.0\PersonnelSystem.Entities.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\bin\Debug\net6.0\PersonnelSystem.DLL.pdb
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\bin\Debug\net6.0\PersonnelSystem.Entities.pdb
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\obj\Debug\net6.0\PersonnelSystem.TL.csproj.AssemblyReference.cache
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\obj\Debug\net6.0\PersonnelSystem.TL.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\obj\Debug\net6.0\PersonnelSystem.TL.AssemblyInfoInputs.cache
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\obj\Debug\net6.0\PersonnelSystem.TL.AssemblyInfo.cs
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\obj\Debug\net6.0\PersonnelSystem.TL.csproj.CoreCompileInputs.cache
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\obj\Debug\net6.0\PersonnelSystem.TL.csproj.CopyComplete
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\obj\Debug\net6.0\PersonnelSystem.TL.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\obj\Debug\net6.0\refint\PersonnelSystem.TL.dll
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\obj\Debug\net6.0\PersonnelSystem.TL.pdb
+C:\visual_studio_examples\MyCourses\PhoneApplication\PersonnelSystem\PersonnelSystem.TL\obj\Debug\net6.0\ref\PersonnelSystem.TL.dll
